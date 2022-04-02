@@ -1,5 +1,3 @@
-<center> # Dislogs </center>
-
 # Dislog
 
 Dislog is a small package which sends over important logs to discord via webhooks.
@@ -34,7 +32,7 @@ Takes a message to be sent as a message in the discord channel.
 
 Works similarly as log(), but also pings the specified user while initializing the library.
 
-## Usage/Examples
+## Usage
 
 ```javascript
 import Dislog from "dislog";
