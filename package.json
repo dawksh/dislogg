@@ -1,5 +1,5 @@
 {
-  "name": "dislog",
+  "name": "dislogg",
   "version": "1.0.0",
   "description": "A library for sending logs to discord",
   "main": "lib/index.js",
