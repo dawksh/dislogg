@@ -8,7 +8,7 @@ Initialize once and send everywhere.
 Install dislog with npm
 
 ```bash
-  npm install dislog
+  npm install dislogg
 ```
 
 ## API Reference
